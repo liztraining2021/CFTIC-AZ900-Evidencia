@@ -18,3 +18,14 @@ Fin de la práctica borrando el recurso
 
 
 
+![04a-CreateVirtualNetwork](Evidencia/04a-CreateVirtualNetwork.PNG)
+
+![04b-CreateVirtualNetwork](Evidencia/04b-CreateVirtualNetwork.PNG)
+
+![04c-CreateVirtualNetwork](Evidencia/04c-CreateVirtualNetwork.PNG)
+
+![04d-CreateVirtualNetwork](Evidencia/04d-CreateVirtualNetwork.PNG)
+
+![04e-CreateVirtualNetwork](Evidencia/04e-CreateVirtualNetwork.PNG)
+
+![04f-CreateVirtualNetwork](Evidencia/04f-CreateVirtualNetwork.PNG)
