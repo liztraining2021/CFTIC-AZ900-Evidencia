@@ -146,11 +146,11 @@ Fin de la práctica borrando el recurso
 
 # Practica-12 - Implement Azure Key Vault
 
+![12a-CreateKeyVault](Evidencia/12a-CreateKeyVault.PNG)
 
+![12b-CreateKeyVault](Evidencia/12b-CreateKeyVault.PNG)
 
-
-
-
+![12c-CreateKeyVault](Evidencia/12c-CreateKeyVault.PNG)
 
 # Práctica-13 - SecureNetworkTraffic
 
