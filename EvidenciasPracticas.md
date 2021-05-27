@@ -134,3 +134,115 @@ Fin de la práctica borrando el recurso
 
 # Practica-11 - Create a VM with the CLI
 
+![11a-CreateVMwithCLI](Evidencia/11a-CreateVMwithCLI.PNG)
+
+![11b-CreateVMwithCLI](Evidencia/11b-CreateVMwithCLI.PNG)
+
+![11c-CreateVMwithCLI](Evidencia/11c-CreateVMwithCLI.PNG)
+
+![11d-CreateVMwithCLI](Evidencia/11d-CreateVMwithCLI.PNG)
+
+![11e-CreateVMwithCLI](Evidencia/11e-CreateVMwithCLI.PNG)
+
+# Practica-12 - Implement Azure Key Vault
+
+
+
+
+
+
+
+# Práctica-13 - SecureNetworkTraffic
+
+![13a-SecureNetworkTraffic](Evidencia/13a-SecureNetworkTraffic.PNG)
+
+![13b-SecureNetworkTraffic](Evidencia/13b-SecureNetworkTraffic.PNG)
+
+![13c-SecureNetworkTraffic](Evidencia/13c-SecureNetworkTraffic.PNG)
+
+# Practica 14 - Manage access with RBAC
+
+![14a-ManageAccesswithRBAC](Evidencia/14a-ManageAccesswithRBAC.PNG)
+
+![14b-ManageAccesswithRBAC](Evidencia/14b-ManageAccesswithRBAC.PNG)
+
+![14c-ManageAccesswithRBAC](Evidencia/14c-ManageAccesswithRBAC.PNG)
+
+![14d-ManageAccesswithRBAC](Evidencia/14d-ManageAccesswithRBAC.PNG)
+
+# Práctica 15 - Manage resource locks
+
+![15a-ManageResourceLocks](Evidencia/15a-ManageResourceLocks.PNG)
+
+![15b-ManageResourceLocks](Evidencia/15b-ManageResourceLocks.PNG)
+
+![15c-ManageResourceLocks](Evidencia/15c-ManageResourceLocks.PNG)
+
+![15d-ManageResourceLocks](Evidencia/15d-ManageResourceLocks.PNG)
+
+![15e-ManageResourceLocks](Evidencia/15e-ManageResourceLocks.PNG)
+
+# Práctica 16 - Implement resource tagging
+
+![16a-ImplementResourceTagging](Evidencia/16a-ImplementResourceTagging.PNG)
+
+![16b-ImplementResourceTagging](Evidencia/16b-ImplementResourceTagging.PNG)
+
+![16c-ImplementResourceTagging](Evidencia/16c-ImplementResourceTagging.PNG)
+
+![16d-ImplementResourceTagging](Evidencia/16d-ImplementResourceTagging.PNG)
+
+![16e-ImplementResourceTagging](Evidencia/16e-ImplementResourceTagging.PNG)
+
+![16f-ImplementResourceTagging](Evidencia/16f-ImplementResourceTagging.PNG)
+
+![16g-ImplementResourceTagging](Evidencia/16g-ImplementResourceTagging.PNG)
+
+# Práctica 17- Create an Azure Policy
+
+![17a-CreateanAzurePolicy](Evidencia/17a-CreateanAzurePolicy.PNG)
+
+![17b-CreateanAzurePolicy](Evidencia/17b-CreateanAzurePolicy.PNG)
+
+![17c-CreateanAzurePolicy](Evidencia/17c-CreateanAzurePolicy.PNG)
+
+![17d-CreateanAzurePolicy](Evidencia/17d-CreateanAzurePolicy.PNG)
+
+![17e-CreateanAzurePolicy](Evidencia/17e-CreateanAzurePolicy.PNG)
+
+![17f-CreateanAzurePolicy](Evidencia/17f-CreateanAzurePolicy.PNG)
+
+# Práctica 18 - Explore the Trust Center
+
+![18a-ExploreTrustCenter](Evidencia/18a-ExploreTrustCenter.PNG)
+
+![18b-ExploreTrustCenter](Evidencia/18b-ExploreTrustCenter.PNG)
+
+![18c-ExploreTrustCenter](Evidencia/18c-ExploreTrustCenter.PNG)
+
+![18d-ExploreTrustCenter](Evidencia/18d-ExploreTrustCenter.PNG)
+
+# Práctica 19 - Use the Pricing Calculator
+
+![19a-UseAzurePricingCalculator](Evidencia/19a-UseAzurePricingCalculator.PNG)
+
+# Práctica 20 - Use the Azure TCO Calculator
+
+![20a-UseAzureTCOCalculator](Evidencia/20a-UseAzureTCOCalculator.PNG)
+
+# Práctica 21 - Calculate Composite SLAs
+
+![21a-AcuerdoNivelServicio](Evidencia/21a-AcuerdoNivelServicio.PNG)
+
+# Práctica 22 - Open a Support Request
+
+![22a-OpenSupportRequest](Evidencia/22a-OpenSupportRequest.PNG)
+
+
+
+![22b-OpenSupportRequest](Evidencia/22b-OpenSupportRequest.PNG)
+
+# 
+
+
+
